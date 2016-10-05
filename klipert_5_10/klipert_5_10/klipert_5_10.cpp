@@ -4,7 +4,7 @@
 #include "stdafx.h"
 
 void menu(){
-
+	tree gg;
 }
 
 int main()
