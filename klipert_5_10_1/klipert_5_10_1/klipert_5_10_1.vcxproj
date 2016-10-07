@@ -145,6 +145,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="classFunctions.cpp" />
     <ClCompile Include="dialogFunctions.cpp" />
     <ClCompile Include="klipert_5_10_1.cpp" />
     <ClCompile Include="stdafx.cpp">
