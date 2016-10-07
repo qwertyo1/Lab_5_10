@@ -23,5 +23,5 @@ public:
 	void inorder(tree *root); // печать элементов
 };
 
-tree *setElementInfo(tree t, int n); // добавление элемента, возвращает список после добавления элемента
+tree *setElementInfo(tree t); // добавление элемента, возвращает список после добавления элемента
 tree *askDeleteElement(tree t); // удаление элемента, возвращает список после удаления элемента
